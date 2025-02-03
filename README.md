@@ -49,13 +49,6 @@ python linkedin.py
 - Entrez votre mot de passe
 - Entrez vos mots-clés de recherche (séparés par des espaces)
 
-📁 Structure des fichiers
-
-LinkedIn-crawler/
-├── linkedin.py           # Script principal
-├── README.md            # Documentation
-└── offres_linkedin.txt  # Fichier de résultats
-
 📝 Exemple de mots-clés
 
 `python développeur`
